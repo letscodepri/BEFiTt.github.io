@@ -1,0 +1,32 @@
+.lineside{
+    border: 5px solid #b1191994;
+    border-radius: 10px;
+    width: 23%;
+    padding: 2px;
+    margin-left: 105%;
+    margin-top: -35px;
+    height: 188%;
+    /* display: flex; */
+    /* flex-direction: column; */
+    color: aliceblue;
+    font-size: x-large;
+    font-weight: 900;
+}
+#img2{
+    width: 26%;
+}
+.boxes{
+    flex-direction: inherit;
+    align-items: end;
+    
+
+}
+.ambasdr{
+   height: 85%;
+   border: 2.5px inset white;
+   border-top: none;
+   border-right: none;
+
+   border-radius: 14px ;
+
+}
